@@ -1,0 +1,45 @@
+Captures/
+Videos/
+Library/ShaderCache/
+Library/metadata/
+Library/ScriptAssemblies/
+[Ll]ibrary
+=============== 
+Unity generated
+===============
+Temp/
+Library/
+
+# Never ignore Asset meta data
+!/[Aa]ssets/**/*.meta
+
+Assets/XR.meta
+=====================================
+Visual Studio / MonoDevelop generated
+=====================================
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+============
+OS generated
+============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Assets/Prefabs/small.mp4
+.vs/AuraX2019/v15/Server/sqlite3/storage.ide
+.vs/AuraX2019/v15/Server/sqlite3/db.lock
+.vs/
